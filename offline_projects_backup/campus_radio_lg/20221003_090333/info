@@ -1,0 +1,39 @@
+{
+  "uuid": "b4f6a9d80379bfe51e985ce6b9fe4a5d",
+  "path": "Offline/campus_radio_lg",
+  "name": "campus_radio_lg",
+  "content": "",
+  "created_at": "2022-05-28 16:19:30",
+  "updated_at": "2022-10-03 09:03:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ba2b457461e359e7f1bb43c4364bb30c",
+      "puuid": "b4f6a9d80379bfe51e985ce6b9fe4a5d",
+      "title": "campus_radio",
+      "filename": "campus_radio.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "54b9ab7aebe5456bbc9f2879b8d360ff": 2,
+        "bdc3b67835db4f038b902bec1e992dc6": 1,
+        "0b0f7e179ede420a8af2a98a7bbdc039": 2,
+        "c2a6fb6f7c6a40529ed64518f2e40eca": 1,
+        "e9c3eb9e85a34af8a88ed6e30a6117b9": 1
+      },
+      "BOM": [],
+      "updateTime": 1664813013,
+      "createTime": 1653779971,
+      "histories": [],
+      "created_at": "2022-05-28 16:19:31",
+      "updated_at": "2022-10-03 09:03:33"
+    }
+  ],
+  "sort": [],
+  "title": "campus_radio_lg",
+  "foldername": "campus_radio_lg",
+  "schfilename": "campus_radio_lg.json",
+  "schfilemtime": 1653779970967.9248
+}

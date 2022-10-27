@@ -1,0 +1,106 @@
+{
+  "uuid": "5bc182a2e1cf6947698f5a75523ba449",
+  "path": "Offline/WVR_V1",
+  "name": "WVR_V1",
+  "content": "Trying EasyEDA for WVR",
+  "created_at": "2021-01-21 18:10:39",
+  "updated_at": "2021-01-21 19:04:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "60f32f9e4352c6d1ac26c9b1356e7d94",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "dd66a9cbd71142d0aac29686ed55a31b": 1,
+        "f29f57ac58b24353a27984c5792bbc76": 1,
+        "20b37122052a4452998e1fe41d6cf920": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10k",
+          6,
+          "R0402",
+          "R1,R2,R3,R4,R5,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "cea456c24ca24165b176bcf9114a7b29",
+            "uuid": "20b37122052a4452998e1fe41d6cf920"
+          }
+        ],
+        [
+          "KLM8G1GETF-B041",
+          1,
+          "FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C499918",
+            "BOM_Manufacturer": "Samsung",
+            "BOM_Manufacturer Part": "KLM8G1GETF-B041",
+            "BOM_JLCPCB SMD": "Yes",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "c06e890b636545f0b23bb9ccccfcd82d",
+            "uuid": "dd66a9cbd71142d0aac29686ed55a31b"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0402",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ]
+      ],
+      "updateTime": 1611282644,
+      "createTime": 1611282644,
+      "histories": [],
+      "created_at": "2021-01-21 18:30:44",
+      "updated_at": "2021-01-21 18:30:44"
+    },
+    {
+      "uuid": "d2a5384ba572cb2813e80765e84c2c7a",
+      "puuid": "5bc182a2e1cf6947698f5a75523ba449",
+      "title": "PCB_2021-01-21_19-04-33",
+      "filename": "PCB_2021-01-21_19-04-33.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "cea456c24ca24165b176bcf9114a7b29": 6,
+        "c06e890b636545f0b23bb9ccccfcd82d": 1,
+        "f8eca159cd18407f9d5df374a1c2badf": 1
+      },
+      "BOM": [],
+      "updateTime": 1611284673,
+      "createTime": 1611284673,
+      "histories": [],
+      "created_at": "2021-01-21 19:04:33",
+      "updated_at": "2021-01-21 19:04:33"
+    }
+  ],
+  "sort": [],
+  "title": "WVR_V1",
+  "foldername": "WVR_V1",
+  "schfilename": "WVR_V1.json",
+  "schfilemtime": 1611282644514
+}

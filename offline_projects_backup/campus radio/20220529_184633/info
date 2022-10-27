@@ -1,0 +1,315 @@
+{
+  "uuid": "d15dcfbd58b3dad28624ccddb9b9e653",
+  "path": "Offline/campus%20radio",
+  "name": "campus radio",
+  "content": "",
+  "created_at": "2022-05-21 19:20:59",
+  "updated_at": "2022-05-29 18:46:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b9d9f4290ead63452dda83fe8fa4f684",
+      "title": "campus_radio_sch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uf",
+          6,
+          "C_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "C1,C2,C3,C4,C5,C11",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "0.1uf",
+          3,
+          "C_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "C6,C10,C12",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1nf",
+          1,
+          "C_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "C13",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "CAP_Touch",
+          2,
+          "CAPTOUCH_SM",
+          "CT1,CT2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "D",
+          1,
+          "D_SOD-323_HANDSOLDERING",
+          "D1",
+          {
+            "puuid": "f1b7cafb0af34fd4ba4fa95234361fc6",
+            "uuid": ""
+          }
+        ],
+        [
+          "M20-7910642R",
+          1,
+          "HARWIN_M20-7910642R",
+          "J2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "10118192-0001LF",
+          1,
+          "AMPHENOL_10118192-0001LF",
+          "J3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "R1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "R2,R4,R5",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "R3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "91AR10KLF",
+          1,
+          "91AR10KLF",
+          "R6",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "12k",
+          1,
+          "R_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "R11",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "470R",
+          1,
+          "R_0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER",
+          "R12",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "SW_SPST",
+          1,
+          "JS102000SAQN",
+          "SW1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "SW_Push-Switch",
+          2,
+          "SW_PUSH_SPST_NO_ALPS_SKRK",
+          "SW2,SW3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "audio pos",
+          1,
+          "TESTPOINT_PAD_D3.0MM",
+          "TP1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "audio neg",
+          1,
+          "TESTPOINT_PAD_D3.0MM",
+          "TP2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "SDA",
+          1,
+          "TESTPOINT_PAD_D3.0MM",
+          "TP3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "SLC",
+          1,
+          "TESTPOINT_PAD_D3.0MM",
+          "TP4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "3.3v",
+          1,
+          "TESTPOINT_PAD_D3.0MM",
+          "TP5",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "GND",
+          1,
+          "TESTPOINT_PAD_D3.0MM",
+          "TP6",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "LM1117-3.3",
+          1,
+          "SOT-223",
+          "U1",
+          {
+            "puuid": "0b0f7e179ede420a8af2a98a7bbdc039",
+            "uuid": ""
+          }
+        ],
+        [
+          "MAX98357AETE+T",
+          1,
+          "QFN50P300X300X80-17N",
+          "U2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "LM1117-5.0",
+          1,
+          "SOT-223",
+          "U3",
+          {
+            "puuid": "0b0f7e179ede420a8af2a98a7bbdc039",
+            "uuid": ""
+          }
+        ],
+        [
+          "ESP32-WROVER-B_(16MB)",
+          1,
+          "XCVR_ESP32-WROVER",
+          "U4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ]
+      ],
+      "updateTime": 1653206229,
+      "createTime": 1653206229,
+      "histories": [],
+      "created_at": "2022-05-22 00:57:09",
+      "updated_at": "2022-05-22 00:57:09"
+    },
+    {
+      "uuid": "e888bff88d08e025168a67f58b384ceb",
+      "puuid": "d15dcfbd58b3dad28624ccddb9b9e653",
+      "title": "campus_radio",
+      "filename": "campus_radio.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fb599532c479455b9d1cab4d553a5805": 1,
+        "3ed26487c25448beaf8cc013817d8bd0": 1,
+        "bdc3b67835db4f038b902bec1e992dc6": 1,
+        "0b0f7e179ede420a8af2a98a7bbdc039": 2,
+        "f1b7cafb0af34fd4ba4fa95234361fc6": 1,
+        "e9c3eb9e85a34af8a88ed6e30a6117b9": 1
+      },
+      "BOM": [],
+      "updateTime": 1653875193,
+      "createTime": 1653186060,
+      "histories": [],
+      "created_at": "2022-05-21 19:21:00",
+      "updated_at": "2022-05-29 18:46:33"
+    }
+  ],
+  "sort": [
+    "b9d9f4290ead63452dda83fe8fa4f684"
+  ],
+  "title": "campus radio",
+  "foldername": "campus radio",
+  "schfilename": "campus radio.json",
+  "schfilemtime": 1653206247796
+}

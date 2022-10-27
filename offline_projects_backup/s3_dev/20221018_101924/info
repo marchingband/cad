@@ -1,0 +1,304 @@
+{
+  "uuid": "6f83efc67e014e970318f773554c2843",
+  "path": "Offline/s3_dev",
+  "name": "s3_dev",
+  "content": "",
+  "created_at": "2022-10-13 10:00:15",
+  "updated_at": "2022-10-18 10:19:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "6c1d05928a4a67c5dccb8d1357304342",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "eb9ef3a637d476315da1f2f6d3044573",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "784f9aa1b09945d6b767f1e986d5646f": 1,
+        "dd66a9cbd71142d0aac29686ed55a31b": 1,
+        "0942a86093094a42a59d33512f9093c7": 1,
+        "9cede09e65194bc174f89c142a47b5b1": 1,
+        "c6551ffd8df4e1d9edf79a5278696201": 1,
+        "6c2bedbae9fbd358441dfb9948555b9c": 6,
+        "083f5d63b368bb29d5f8ab5edcc6059e": 2,
+        "ca94110f4544769d36adda4b0515e409": 2,
+        "953a0347c42cb45cf299aeedf12398c9": 2,
+        "710bc9911e742f162090d27adf1d83d4": 2,
+        "7cbbf594b60246daabc0e79310d48083": 1,
+        "1fa8d89c0262e7e7b8f04c3b3b52fd36": 1,
+        "3f35f3dcad3db64e96a2c897be5b0528": 1,
+        "be6b284182e249f1854d1255bacbc60b": 7,
+        "b0b53549c3164268b713f14c5d4cde9b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1uF",
+          1,
+          "C0402",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Manufacturer Part": "CL05A105KA5NQNC",
+            "BOM_Supplier Part": "C52923",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "c6551ffd8df4e1d9edf79a5278696201"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0402",
+          "C2,C3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05A225MQ5NSNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C12530",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "083f5d63b368bb29d5f8ab5edcc6059e"
+          }
+        ],
+        [
+          "100nF",
+          2,
+          "C0402_NEW",
+          "C4,C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05B104KO5NNNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C1525",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "176eead66a5c45e698aceb33a5f6fe97",
+            "uuid": "ca94110f4544769d36adda4b0515e409"
+          }
+        ],
+        [
+          "220nF",
+          2,
+          "C0402",
+          "C5,C6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05B224KO5NNNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C16772",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "710bc9911e742f162090d27adf1d83d4"
+          }
+        ],
+        [
+          "1N4148WS T4",
+          1,
+          "SOD-323_L1.8-W1.3-LS2.5-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "1N4148WS T4",
+            "BOM_Supplier Part": "C2128",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "dd3cfd4941c4479cb7f2c598e6fde06c",
+            "uuid": "1fa8d89c0262e7e7b8f04c3b3b52fd36"
+          }
+        ],
+        [
+          "10kΩ",
+          6,
+          "R0402",
+          "R1,R2,R3,R4,R5,R6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UniOhm",
+            "BOM_Manufacturer Part": "0402WGF1002TCE",
+            "BOM_Supplier Part": "C25744",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "6c2bedbae9fbd358441dfb9948555b9c"
+          }
+        ],
+        [
+          "470Ω",
+          2,
+          "R0402",
+          "R7,R8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UniOhm",
+            "BOM_Manufacturer Part": "0402WGF4700TCE",
+            "BOM_Supplier Part": "C25117",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "953a0347c42cb45cf299aeedf12398c9"
+          }
+        ],
+        [
+          "280Ω",
+          1,
+          "R0402",
+          "R9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C423200",
+            "BOM_Manufacturer": "Uniroyal Elec",
+            "BOM_Manufacturer Part": "0402WGF2800TCE",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "7cbbf594b60246daabc0e79310d48083"
+          }
+        ],
+        [
+          "220Ω",
+          1,
+          "R0402",
+          "R10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "UniOhm",
+            "BOM_Manufacturer Part": "0402WGF2200TCE",
+            "BOM_Supplier Part": "C25091",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "3f35f3dcad3db64e96a2c897be5b0528"
+          }
+        ],
+        [
+          "ESP32-S2-DEVKITC-1",
+          1,
+          "ESP32-S3-DEVKITC-1",
+          "U1",
+          {
+            "BOM_Manufacturer": "Espressif",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier": "Espressif",
+            "BOM_Supplier Part": "ESP32-S3-DevKitC-1",
+            "puuid": "01b2cbdfceb744979f9cabbcd01e4850",
+            "uuid": "784f9aa1b09945d6b767f1e986d5646f"
+          }
+        ],
+        [
+          "KLM8G1GETF-B041",
+          1,
+          "FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C499918",
+            "BOM_Manufacturer": "Samsung",
+            "BOM_Manufacturer Part": "KLM8G1GETF-B041",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "c06e890b636545f0b23bb9ccccfcd82d",
+            "uuid": "dd66a9cbd71142d0aac29686ed55a31b"
+          }
+        ],
+        [
+          "PCM5100APWR",
+          1,
+          "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI",
+            "BOM_Manufacturer Part": "PCM5100APWR",
+            "BOM_Supplier Part": "C131154",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1586800a83194e228c6527ad76c86945",
+            "uuid": "0942a86093094a42a59d33512f9093c7"
+          }
+        ],
+        [
+          "EL3H7(B)(TA)-G",
+          1,
+          "SOP-4_L4.4-W2.8-P1.27-LS7.0-TL",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "EVERLIGHT",
+            "BOM_Manufacturer Part": "EL3H7(B)(TA)-G",
+            "BOM_Supplier Part": "C32565",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "7c9a59b2d1b44494a16d15fe9823d2af",
+            "uuid": "9cede09e65194bc174f89c142a47b5b1"
+          }
+        ],
+        [
+          "header2X1",
+          7,
+          "HEADER2X1",
+          "U5,U6,U7,U8,U9,U10,U11",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ea4079aeb1d04d6d992abdea74fd453d",
+            "uuid": "be6b284182e249f1854d1255bacbc60b"
+          }
+        ],
+        [
+          "KLM4G1FETE-B041",
+          1,
+          "FBGA-153_L11.0-W10.0-P0.50_KLM4G1FETE-B041",
+          "U12",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C500273",
+            "BOM_Manufacturer": "Samsung",
+            "BOM_Manufacturer Part": "KLM4G1FETE-B041",
+            "puuid": "c58e1b08b8854dc881ddc438392cf548",
+            "uuid": "b0b53549c3164268b713f14c5d4cde9b"
+          }
+        ]
+      ],
+      "updateTime": 1666113563,
+      "createTime": 1665680418,
+      "histories": [],
+      "created_at": "2022-10-13 10:00:18",
+      "updated_at": "2022-10-18 10:19:23"
+    },
+    {
+      "uuid": "794fdce6873d722f302faa7151d7d075",
+      "puuid": "6f83efc67e014e970318f773554c2843",
+      "title": "PCB_s3_dev",
+      "filename": "PCB_s3_dev.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0821ed6ea50c44f4909e4be7610e4198": 5,
+        "176eead66a5c45e698aceb33a5f6fe97": 2,
+        "dd3cfd4941c4479cb7f2c598e6fde06c": 1,
+        "fafd024f554e426eb74cf4a204aa88b0": 10,
+        "01b2cbdfceb744979f9cabbcd01e4850": 1,
+        "1586800a83194e228c6527ad76c86945": 1,
+        "7c9a59b2d1b44494a16d15fe9823d2af": 1,
+        "ea4079aeb1d04d6d992abdea74fd453d": 7,
+        "c58e1b08b8854dc881ddc438392cf548": 1
+      },
+      "BOM": [],
+      "updateTime": 1665768598,
+      "createTime": 1665694200,
+      "histories": [],
+      "created_at": "2022-10-13 13:50:00",
+      "updated_at": "2022-10-14 10:29:58"
+    }
+  ],
+  "sort": [],
+  "title": "s3_dev",
+  "foldername": "s3_dev",
+  "schfilename": "s3_dev.json",
+  "schfilemtime": 1666113564082
+}
