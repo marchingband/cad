@@ -1,0 +1,82 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_01x04 J1
+U 1 1 624ADE70
+P 3500 2250
+F 0 "J1" H 3580 2242 50  0000 L CNN
+F 1 "Conn_01x04" H 3580 2151 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 3500 2250 50  0001 C CNN
+F 3 "~" H 3500 2250 50  0001 C CNN
+	1    3500 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Waver:PEC11R-4215F-S0024 MT1
+U 1 1 624AF51C
+P 2600 2250
+F 0 "MT1" H 2600 2717 50  0000 C CNN
+F 1 "PEC11R-4215F-S0024" H 2600 2626 50  0000 C CNN
+F 2 "PEC11R-4215F-S0024:XDCR_PEC11R-4215F-S0024" H 2600 2250 50  0001 L BNN
+F 3 "21.5 mm" H 2600 2250 50  0001 L BNN
+F 4 "Manufacturer Recommendations" H 2600 2250 50  0001 L BNN "Field4"
+F 5 "J.W.Miller/Bourns" H 2600 2250 50  0001 L BNN "Field5"
+F 6 "Rev. 09/19" H 2600 2250 50  0001 L BNN "Field6"
+	1    2600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 624AF796
+P 2000 2650
+F 0 "#PWR0101" H 2000 2400 50  0001 C CNN
+F 1 "GND" H 2005 2477 50  0000 C CNN
+F 2 "" H 2000 2650 50  0001 C CNN
+F 3 "" H 2000 2650 50  0001 C CNN
+	1    2000 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 2150 2000 2150
+Wire Wire Line
+	3000 2150 3300 2150
+Wire Wire Line
+	3300 2250 3100 2250
+Wire Wire Line
+	3100 2250 3100 2350
+Wire Wire Line
+	3100 2350 3000 2350
+Wire Wire Line
+	3300 2350 3200 2350
+Wire Wire Line
+	3200 2350 3200 2450
+Wire Wire Line
+	3200 2450 3000 2450
+Wire Wire Line
+	2000 2600 3300 2600
+Wire Wire Line
+	3300 2600 3300 2450
+Connection ~ 2000 2600
+Wire Wire Line
+	2000 2600 2000 2650
+Wire Wire Line
+	2000 2150 2000 2350
+Wire Wire Line
+	2200 2350 2000 2350
+Connection ~ 2000 2350
+Wire Wire Line
+	2000 2350 2000 2600
+$EndSCHEMATC
