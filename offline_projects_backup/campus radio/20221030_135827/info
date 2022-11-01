@@ -4,14 +4,37 @@
   "name": "campus radio",
   "content": "",
   "created_at": "2022-05-28 16:19:30",
-  "updated_at": "2022-10-30 14:00:52",
+  "updated_at": "2022-10-30 13:58:27",
   "stick": "",
   "documents": [
     {
-      "uuid": "0ce9a2e08f2728d871fdf21ed2df09e5",
+      "uuid": "ba2b457461e359e7f1bb43c4364bb30c",
       "puuid": "b4f6a9d80379bfe51e985ce6b9fe4a5d",
       "title": "campus radio board",
       "filename": "campus radio board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "54b9ab7aebe5456bbc9f2879b8d360ff": 2,
+        "bdc3b67835db4f038b902bec1e992dc6": 1,
+        "0b0f7e179ede420a8af2a98a7bbdc039": 2,
+        "e9c3eb9e85a34af8a88ed6e30a6117b9": 1,
+        "c2a6fb6f7c6a40529ed64518f2e40eca": 1
+      },
+      "BOM": [],
+      "updateTime": 1666798057,
+      "createTime": 1653779971,
+      "histories": [],
+      "created_at": "2022-05-28 16:19:31",
+      "updated_at": "2022-10-26 08:27:37"
+    },
+    {
+      "uuid": "0ce9a2e08f2728d871fdf21ed2df09e5",
+      "puuid": "b4f6a9d80379bfe51e985ce6b9fe4a5d",
+      "title": "campus radio board 2",
+      "filename": "campus radio board 2.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -32,11 +55,11 @@
           "CustomPara"
         ]
       ],
-      "updateTime": 1667163579,
+      "updateTime": 1667163507,
       "createTime": 1667160895,
       "histories": [],
       "created_at": "2022-10-30 13:14:55",
-      "updated_at": "2022-10-30 13:59:39"
+      "updated_at": "2022-10-30 13:58:27"
     }
   ],
   "sort": [],

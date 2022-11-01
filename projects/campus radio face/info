@@ -1,17 +1,17 @@
 {
   "uuid": "074ebeae929a1248e5ab64697061f844",
-  "path": "Offline/Campus%20Radio%20Face",
-  "name": "Campus Radio Face",
+  "path": "Offline/campus%20radio%20face",
+  "name": "campus radio face",
   "content": "",
   "created_at": "2022-10-09 12:17:36",
-  "updated_at": "2022-10-09 12:29:06",
+  "updated_at": "2022-10-30 14:04:17",
   "stick": "",
   "documents": [
     {
       "uuid": "3190a82602cf2bae0dd1adfd57d74f0c",
       "puuid": "074ebeae929a1248e5ab64697061f844",
-      "title": "campus_radio_face",
-      "filename": "campus_radio_face.json",
+      "title": "campus radio face board",
+      "filename": "campus radio face board.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -31,8 +31,8 @@
     }
   ],
   "sort": [],
-  "title": "Campus Radio Face",
-  "foldername": "Campus Radio Face",
-  "schfilename": "Campus Radio Face.json",
-  "schfilemtime": 1665343056494.9788
+  "title": "campus radio face",
+  "foldername": "campus radio face",
+  "schfilename": "campus radio face.json",
+  "schfilemtime": 1666856665021.6672
 }

@@ -1,18 +1,18 @@
 {
   "uuid": "6f83efc67e014e970318f773554c2843",
-  "path": "Offline/s3_dev",
-  "name": "s3_dev",
+  "path": "Offline/s3%20dev",
+  "name": "s3 dev",
   "content": "",
   "created_at": "2022-10-13 10:00:15",
-  "updated_at": "2022-10-18 10:19:23",
+  "updated_at": "2022-10-27 01:10:35",
   "stick": "",
   "documents": [
     {
       "uuid": "6c1d05928a4a67c5dccb8d1357304342",
-      "title": "Sheet_1",
+      "title": "s3 dev sch",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "bfd66820dab557b70f4c199a0b989316",
       "thumb": "/images/thumb-default.png",
       "components": {
         "784f9aa1b09945d6b767f1e986d5646f": 1,
@@ -28,8 +28,7 @@
         "7cbbf594b60246daabc0e79310d48083": 1,
         "1fa8d89c0262e7e7b8f04c3b3b52fd36": 1,
         "3f35f3dcad3db64e96a2c897be5b0528": 1,
-        "be6b284182e249f1854d1255bacbc60b": 7,
-        "b0b53549c3164268b713f14c5d4cde9b": 1
+        "be6b284182e249f1854d1255bacbc60b": 7
       },
       "BOM": [
         [
@@ -246,33 +245,19 @@
             "puuid": "ea4079aeb1d04d6d992abdea74fd453d",
             "uuid": "be6b284182e249f1854d1255bacbc60b"
           }
-        ],
-        [
-          "KLM4G1FETE-B041",
-          1,
-          "FBGA-153_L11.0-W10.0-P0.50_KLM4G1FETE-B041",
-          "U12",
-          {
-            "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C500273",
-            "BOM_Manufacturer": "Samsung",
-            "BOM_Manufacturer Part": "KLM4G1FETE-B041",
-            "puuid": "c58e1b08b8854dc881ddc438392cf548",
-            "uuid": "b0b53549c3164268b713f14c5d4cde9b"
-          }
         ]
       ],
-      "updateTime": 1666113563,
+      "updateTime": 1666858235,
       "createTime": 1665680418,
       "histories": [],
       "created_at": "2022-10-13 10:00:18",
-      "updated_at": "2022-10-18 10:19:23"
+      "updated_at": "2022-10-27 01:10:35"
     },
     {
       "uuid": "794fdce6873d722f302faa7151d7d075",
       "puuid": "6f83efc67e014e970318f773554c2843",
-      "title": "PCB_s3_dev",
-      "filename": "PCB_s3_dev.json",
+      "title": "s3 dev board",
+      "filename": "s3 dev board.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -297,8 +282,8 @@
     }
   ],
   "sort": [],
-  "title": "s3_dev",
-  "foldername": "s3_dev",
-  "schfilename": "s3_dev.json",
-  "schfilemtime": 1666113564082
+  "title": "s3 dev",
+  "foldername": "s3 dev",
+  "schfilename": "s3 dev.json",
+  "schfilemtime": 1666858235335
 }

@@ -4,14 +4,14 @@
   "name": "campus radio",
   "content": "",
   "created_at": "2022-05-28 16:19:30",
-  "updated_at": "2022-10-30 14:00:52",
+  "updated_at": "2022-10-30 14:00:44",
   "stick": "",
   "documents": [
     {
       "uuid": "0ce9a2e08f2728d871fdf21ed2df09e5",
       "puuid": "b4f6a9d80379bfe51e985ce6b9fe4a5d",
-      "title": "campus radio board",
-      "filename": "campus radio board.json",
+      "title": "campus radio board 2",
+      "filename": "campus radio board 2.json",
       "description": "",
       "docType": "3",
       "master": "",
